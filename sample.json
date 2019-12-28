@@ -1,0 +1,100 @@
+{
+    "uLV8CiyqkP0": {
+        "kind": "youtube#playlistItem",
+        "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/s8BNNqYAEcaUcTGbDrTf2ClECbU\"",
+        "id": "VVVIYkx4aGJnNWN5QmRWM00wSVYtOEpRLnVMVjhDaXlxa1Aw",
+        "snippet": {
+            "publishedAt": "2019-12-20T17:47:40.000Z",
+            "channelId": "UCHbLxhbg5cyBdV3M0IV-8JQ",
+            "title": "Clanton 14th Street Gang Hood",
+            "description": "Spending a day in different sections of Clanton 14 neighborhood in Los Angeles. \nPeople in the video:\nBugzy 100 https://www.instagram.com/bugzy.100/\nBugzy - \"About Me\" https://www.youtube.com/watch?v=POQSyAzUk9c\nconteurvisualz https://www.instagram.com/conteurvisualz/\nHoodVlogs https://www.instagram.com/thehoodvlogs/\nOfficial video for the channel's intro song \"Go Crazy\" by IsitBeezy https://www.youtube.com/watch?v=T_OS0v1hxt4\n\"Go Crazy\" on Soundcloud  https://soundcloud.com/isitbeezy117/crazy\n\"Go Crazy\" on other music  platforms https://distrokid.com/hyperfollow/isitbeezy/crip-go-crazy\n#HoodVlogs #HoodBuzz",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/uLV8CiyqkP0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/uLV8CiyqkP0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/uLV8CiyqkP0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/uLV8CiyqkP0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/uLV8CiyqkP0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "HoodVlogs",
+            "playlistId": "UUHbLxhbg5cyBdV3M0IV-8JQ",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "uLV8CiyqkP0"
+            }
+        },
+        "contentDetails": {
+            "videoId": "uLV8CiyqkP0",
+            "videoPublishedAt": "2019-12-20T17:47:40.000Z"
+        }
+    },
+    "gnjVDNEWzZ8": {
+        "kind": "youtube#playlistItem",
+        "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/1jDdjuyJV26kZaiYhrgwMk5iLlU\"",
+        "id": "VVVIYkx4aGJnNWN5QmRWM00wSVYtOEpRLmdualZETkVXelo4",
+        "snippet": {
+            "publishedAt": "2019-12-05T19:37:12.000Z",
+            "channelId": "UCHbLxhbg5cyBdV3M0IV-8JQ",
+            "title": "Life in PJ Watts Crips Projects",
+            "description": "Spending evening in Imperial Courts Projects with Bwaun Bans aka Bankroll Jay.\nBwaun Bans/Bankroll Jay https://www.instagram.com/bwaunbans/\nBwaun Bans/Bankroll Jay https://soundcloud.com/bankroll_jay\nIsitBeezy https://www.instagram.com/isitbeezy/\nDice Allstar https://www.instagram.com/diceydice117/\nHoodVlogs https://www.instagram.com/thehoodvlogs/\nOfficial video for the channel's intro song \"Go Crazy\" by IsitBeezy https://www.youtube.com/watch?v=T_OS0v1hxt4\n\"Go Crazy\" on Soundcloud  https://soundcloud.com/isitbeezy117/crazy\n\"Go Crazy\" on other music  platforms https://distrokid.com/hyperfollow/isitbeezy/crip-go-crazy\n#HoodVlogs #HoodBuzz",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gnjVDNEWzZ8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gnjVDNEWzZ8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gnjVDNEWzZ8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/gnjVDNEWzZ8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/gnjVDNEWzZ8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "HoodVlogs",
+            "playlistId": "UUHbLxhbg5cyBdV3M0IV-8JQ",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "gnjVDNEWzZ8"
+            }
+        },
+        "contentDetails": {
+            "videoId": "gnjVDNEWzZ8",
+            "videoPublishedAt": "2019-12-05T19:37:12.000Z"
+        }
+    }
+}
